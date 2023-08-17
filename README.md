@@ -1,42 +1,34 @@
-<h1 align="center">Caça Palavras Tecnológico</h1>
+# Caça Palavras Tecnológico
 
-<p align="center">
-  https://joguinhocacapalavras.vercel.app/
-</p>
+![Caça Palavras Tecnológico](https://meusjoguinhos.vercel.app/img/JoguinhoCa%C3%A7aPalavras.png)
 
-<p align="center">
-  <strong>Explore o universo da tecnologia e descubra termos que moldam o futuro!</strong>
-</p>
+Bem-vindo ao "Caça Palavras Tecnológico", um jogo de palavras cruzadas relacionadas ao universo da tecnologia!
 
-<p align="center">
-  <a href="#sobre-o-jogo">Sobre o Jogo</a> •
-  <a href="#como-jogar">Como Jogar</a> •
-  <a href="#dependências">Dependências</a> •
-  <a href="#autor">Autor</a> •
-  <a href="#licença">Licença</a>
-</p>
+## Visão Geral
 
-## Sobre o Jogo
-
-O "Caça Palavras Tecnológico" é um jogo de caça-palavras que explora o universo da tecnologia. Neste jogo, você irá encontrar termos relacionados à programação, inteligência artificial, segurança cibernética e muito mais. O jogo é uma maneira divertida e educativa de testar seus conhecimentos em tecnologia.
+O "Caça Palavras Tecnológico" é um jogo educativo que desafia você a encontrar termos relacionados à tecnologia em uma grade de letras. Explore o campo da tecnologia enquanto busca e identifica os termos escondidos.
 
 ## Como Jogar
 
-1. Abra o arquivo `index.html` em um navegador da web.
-2. Na grade de letras exibida, procure as palavras listadas na parte inferior da tela.
-3. Você pode selecionar as letras da palavra clicando nas células adjacentes.
-4. As palavras podem estar dispostas na horizontal, vertical ou diagonal.
-5. Clique no botão "Revele os Termos!" para verificar as palavras que você não encontrou.
-6. Um cronômetro na parte superior mostrará quanto tempo você levou para encontrar todas as palavras.
+1. Acesse o jogo através do seguinte link: [Caça Palavras Tecnológico](https://joguinhocacapalavras.vercel.app/).
+2. Observe a lista de termos na parte superior do jogo.
+3. Use o mouse para selecionar as letras correspondentes aos termos na grade.
+4. Encontre todos os termos escondidos o mais rápido possível.
+5. O seu objetivo é concluir o jogo no menor tempo possível!
 
-## Dependências
+## Tecnologias Utilizadas
 
-Este jogo utiliza as seguintes dependências:
+-   HTML
+-   CSS
+-   JavaScript
+-   jQuery
 
--   [jQuery](https://jquery.com/): Biblioteca JavaScript para manipulação do DOM.
--   [wordfind.js](https://github.com/bunkat/wordfind): Biblioteca JavaScript para gerar e resolver quebra-cabeças de palavras.
--   Fonte Google Fonts: A fonte Open Sans é utilizada para a tipografia no jogo.
+## Como Contribuir
 
----
+Se você deseja contribuir para este projeto, siga os passos abaixo:
 
-Este projeto foi criado com o objetivo de proporcionar uma experiência divertida e educativa para os jogadores interessados em tecnologia. Sinta-se à vontade para explorar, modificar e compartilhar este projeto com outras pessoas! Divirta-se jogando e aprimorando seu conhecimento tecnológico com o "Caça Palavras Tecnológico". Se você tiver alguma dúvida ou feedback, não hesite em nos contatar. Divirta-se!
+1. Faça um fork deste repositório.
+2. Clone o seu fork para o seu ambiente local.
+3. Faça as modificações desejadas.
+4. Faça um commit das suas alterações.
+5. Envie um pull request para este repositório.
